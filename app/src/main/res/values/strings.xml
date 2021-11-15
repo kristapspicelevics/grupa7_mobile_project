@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirstHalloWorld</string>
+    <string name="greeting">This is the first application from Group #07 \n 1.Aleksis Ābols \n 2.Ainārs Bērziņš \n 3.Kristaps Picelēvičs \n And the application was developed by Ainārs Bērziņš</string>
+</resources>
