@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="dialog_group_name">1-st Activity</string>
+    <string name="btnRedirect_group_name">Go to 2-nd</string>
+    <string name="btnDialog_group_name">Dialog</string>
+    <string name="btnBack_group_name">Back</string>
+    <string name="dialog_message">Back</string>
+    <string name="dialog_title">"No.7" Group’s Dialog</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string-array name="team">
+        <item>Kristaps Picelēvičs</item>
+        <item>Aleksis Ābols</item>
+        <item>Ainārs Bērziņš</item>
+    </string-array>
+</resources>
