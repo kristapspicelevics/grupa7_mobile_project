@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Dialog</string>
     <string name="dialog_group_name">1-st Activity</string>
+    <string name="dialog2_group_name">2-nd Activity</string>
     <string name="btnRedirect_group_name">Go to 2-nd</string>
     <string name="btnDialog_group_name">Dialog</string>
     <string name="btnBack_group_name">Back</string>
